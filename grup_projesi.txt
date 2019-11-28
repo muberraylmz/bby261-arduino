@@ -1,0 +1,17 @@
+Yapacağımız Projenin Adı:
+ Arduino ile RFID Kart Okuyucu (RC522) Modül Kullanarak Kapı Kilidi Yapımı
+
+Projemiz İçin Gerekli Olan Malzemeler:
+1. Arduino UNO R3 Klon USB Kablo Hediyeli - (USB Chip CH340) (https://www.robotistan.com/arduino-uno-r3-klon-usb-kablo-hediyeli-usb-chip-ch340)
+2. Breadboard (https://www.robotistan.com/breadboard)
+3. RC522 RFID NFC Kiti - RC522 RFID NFC Modülü, Kart ve Anahtarlık Kiti (13.56 MHz) (https://www.robotistan.com/rc522-rfid-nfc-kiti-rc522-rfid-nfc-modulu-kart-ve-anahtarlik-kiti-1356)
+4. Tower Pro SG90 RC Mini (9gr) Servo Motor (https://www.robotistan.com/tower-pro-sg90-rc-mini-servo-motor)
+5. 40 Pin Ayrılabilen Erkek-Erkek M-M Jumper Kablo-200 mm (https://www.robotistan.com/40-pin-ayrilabilen-erkek-erkek-m-m-jumper-kablo-200-mm)
+
+Alacağımız kit içerisinde 1. 3. ve 4. malzemeler bulunmaktadır. 2. malzeme de bulunmaktadır fakat bir değişik modeli olduğunu düşünüyoruz. 4. malzememiz ise bulunmamaktadır. Eğer bu proje için
+onay verirseniz hocam eksik olan malzemeleri kendimiz temin edebiliriz.
+
+Grup Üyeleri:
+21661453 Almıla Güden
+21763661 Müberra Yılmaz
+21800289 Sabina Amrahova
