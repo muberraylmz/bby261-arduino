@@ -1,5 +1,5 @@
 Yapacağımız Projenin Adı:
- Arduino ile RFID Kart Okuyucu (RC522) Modül Kullanarak Kapı Kilidi Yapımı
+ Arduino ile RFID Kart Okuyucu (RC522) Modül Kullanarak Kitap Okuma
 
 Projemiz İçin Gerekli Olan Malzemeler:
 1. Arduino UNO R3 Klon USB Kablo Hediyeli - (USB Chip CH340) (https://www.robotistan.com/arduino-uno-r3-klon-usb-kablo-hediyeli-usb-chip-ch340)
