@@ -1,15 +1,15 @@
 Yapacağımız Projenin Adı:
- Arduino ile RFID Kart Okuyucu (RC522) Modül Kullanarak Kitap Okuma
+ Ultrasonik Sensör İle Park Sensörü Yapımı
 
 Projemiz İçin Gerekli Olan Malzemeler:
-1. Arduino UNO R3 Klon USB Kablo Hediyeli - (USB Chip CH340) (https://www.robotistan.com/arduino-uno-r3-klon-usb-kablo-hediyeli-usb-chip-ch340)
-2. Breadboard (https://www.robotistan.com/breadboard)
-3. RC522 RFID NFC Kiti - RC522 RFID NFC Modülü, Kart ve Anahtarlık Kiti (13.56 MHz) (https://www.robotistan.com/rc522-rfid-nfc-kiti-rc522-rfid-nfc-modulu-kart-ve-anahtarlik-kiti-1356)
-4. Tower Pro SG90 RC Mini (9gr) Servo Motor (https://www.robotistan.com/tower-pro-sg90-rc-mini-servo-motor)
-5. 40 Pin Ayrılabilen Erkek-Erkek M-M Jumper Kablo-200 mm (https://www.robotistan.com/40-pin-ayrilabilen-erkek-erkek-m-m-jumper-kablo-200-mm)
+1. Arduino UNO
+2. Breadboard
+3. 1 adet Buzzer
+4. 1 adet 330Ω direnç
+5. 1 adet HC-SR04 ultrasonik mesafe sensörü
+6. İki ucu erkek jumper kablo
 
-Alacağımız kit içerisinde 1. 3. ve 4. malzemeler bulunmaktadır. 2. malzeme de bulunmaktadır fakat bir değişik modeli olduğunu düşünüyoruz. 4. malzememiz ise bulunmamaktadır. Eğer bu proje için
-onay verirseniz hocam eksik olan malzemeleri kendimiz temin edebiliriz.
+Yaptığımız projede 20 cm'den küçük ve 20 cm'e eşit bir mesafede herhangi bir cisim varsa kırmızı led yanıyor ve buzzerdan daha hızlı ve daha sık aralıklarla ses geliyor yani önümüzde bir cisim olduğunu ve dikkat etmemiz gerektiğini söylüyor. Bir diğer durum ise 20 cm'den büyük ve 35 cm'den küçük veya eşit bir mesafede cisim olursa kullandığımız ikinci kırmızı led yanıyor fakat bu led daha yavaş yanıp sönüyor ve ses de aynı led gibi daha az sık aralıklarla ses çıkarıyor. Son koşul ise cisim 35 cm'den büyük bir mesafedeyse tehlike olarak görmüyor ve sadece yeşil led yanıyor ve herhangi bir ses çıkartmıyor.
 
 Grup Üyeleri:
 21661453 Almıla Güden
